@@ -1,0 +1,14 @@
+// The search bar will feature schools (JC/Poly), CCAs, Year (1-4), Major 
+
+
+{
+    "majors": [ "Infromation Systems", "IS", "Computer Science", "CS", "Computing and Law", "CL", "Smart City Technology", "SMT"],
+    "track":[ "DCS", "Digital Cloud Solutions", "Business Analytics", "BA", "Financial Technology", "FinTech", "Artifical Intelligence", "AI", "Cybersecurity", "Cybersec", "Cyber Physical Systems", "CPS"],
+
+    "school":[ "Temasek Polytechnic", "Ngee Ann Polytechnic", "Nanyang Polytechnic", "Singapore Polytechnic", "Republic Polytechnic", "Anderson Serangoon Junior College", "Anglo-Chinese Junior College", "Catholic Junior College", "Hwa CHong Instituition", "Tampines Meridian Junior College", "Millenia Institution", "Nanyang Junior College", "Jurong Pioneer Junior College", "St. Andrews Junior College", "Temasek Junior College", "Victoria Junior College", "Yishun Innova Junior College" ],
+
+    "cca":[ "smu women in tech", "smuwit", "elipsis", ".hack", "anthill", "whitehats"],
+
+    "year": ["year1", "year2", "year3", "year4"]
+
+}
