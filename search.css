@@ -1,0 +1,32 @@
+body {
+    
+}
+
+#search {
+    text-align: center;
+    margin-top: 20%;
+    /* margin-left: 50rem; */
+    /* margin-right: auto; */
+
+}
+
+#textbox {
+    width: 40%;
+    border-radius: 0.3rem;
+    font-size:x-large;
+    padding: 0.5rem;
+    /* background-color:#FFF; */
+    padding:20px;
+    box-shadow: 0 0 10px lightgrey;
+
+    
+}
+
+#textbox.hover {
+    outline-color: white;
+}
+
+#icon {
+    font-size: x-large;
+    color: lightgrey;
+}

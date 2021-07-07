@@ -1,5 +1,3 @@
-// The search bar will feature schools (JC/Poly), CCAs, Year (1-4), Major 
-
 
 {
     "majors": [ "Infromation Systems", "IS", "Computer Science", "CS", "Computing and Law", "CL", "Smart City Technology", "SMT"],
